@@ -15,7 +15,7 @@ asking others for help
 
 Dengqian (Ken) Zhang:
 - Challenge: Showing up and staying on top of my tasks
-- Goal: Get better at working in group environments, i
+- Goal: Get better at working in group environments, incl. collaborative tools such as Git and Jupyter
 - Support & Accountability: Call me out if I am not being responsible
 
 Group:
