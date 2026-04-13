@@ -3,20 +3,20 @@ Owen Sliger:
  I would like to try and come up with modeling concepts through learning with the group.
  I will try to keep us accountable by encouraging critical thinking instead of looking for solutions.
 
-Keller McGough:
-I don't think that participation will be very challenging, especially if we all communicate.
-A goal we can set is to make sure that everyones voice are heard when working on a project.
-My group members can keep me set on this goal by makeing sure I listen to others.
+Keller Mcgough:
+ I don't think that participation will be very challenging, especially if we all communicate.
+ A goal we can set is to make sure that everyones voice are heard when working on a project.
+ My group members can keep me set on this goal by makeing sure I listen to others.
 
 Ethan Hogan:
-Willing to ask if I did something wrong 
-working with others
-asking others for help 
+ Willing to ask if I did something wrong 
+ working with others
+ asking others for help 
 
 Dengqian (Ken) Zhang:
-- Challenge: Showing up and staying on top of my tasks
-- Goal: Get better at working in group environments, incl. collaborative tools such as Git and Jupyter
-- Support & Accountability: Call me out if I am not being responsible
+ Challenge: Showing up and staying on top of my tasks
+ Goal: Get better at working in group environments, incl. collaborative tools such as Git and Jupyter
+ Support & Accountability: Call me out if I am not being responsible
 
 Group:
  We excepct to function well as a group by communicating and providing constructive feedback.
@@ -25,6 +25,6 @@ Group:
  When conflicts arrise, we will just talk about it
  
 Generative AI:
-We occasionally use generative AI
-Use at your own discretion
-When using AI, treat it as a tool and not an answer
+ We occasionally use generative AI
+ Use at your own discretion
+ When using AI, treat it as a tool and not an answer
